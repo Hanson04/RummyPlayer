@@ -18,7 +18,7 @@ Revision History
 # TODO - Change the PORT and USER_NAME Values before running
 DEBUG = True
 PORT = 10500
-USER_NAME = "EvanHanson"
+USER_NAME = "EvanH"
 # TODO - change your method of saving information from the very rudimentary method here
 hand = [] # list of cards in our hand
 discard = [] # list of cards organized as a stack
